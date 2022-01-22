@@ -7,17 +7,17 @@
 
 
 <p align="center">
-  <img align="center" height="200px" src="https://github-readme-stats.vercel.app/api?username=aalaebl&show_icons=true&theme=github_dark"/>
-  <img align="center" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aalaebl&layout=compact&theme=github_dark"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=aalaebl&show_icons=true&theme=github_dark"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aalaebl&layout=compact&theme=github_dark"/>
 </p>
 
 <h3>Pinned:</h3>
 
 <p align="center">
-  <img align="center" height="130px" src= "https://github-readme-stats.vercel.app/api/pin/?username=aalaebl&theme=github_dark&repo=Flow-Shop-Scheduling"/>
-  <img align="center" height="130px" src= "https://github-readme-stats.vercel.app/api/pin/?username=aalaebl&theme=github_dark&repo=covid-19-tracker"/>
-  <img align="center" height="130px" src= "https://github-readme-stats.vercel.app/api/pin/?username=aalaebl&theme=github_dark&repo=2048_JS"/>
-  <img align="center" height="130px" src= "https://github-readme-stats.vercel.app/api/pin/?username=aalaebl&theme=github_dark&repo=Snake_PyGame"/>
+  <img align="center" src= "https://github-readme-stats.vercel.app/api/pin/?username=aalaebl&theme=github_dark&repo=Flow-Shop-Scheduling"/>
+  <img align="center" src= "https://github-readme-stats.vercel.app/api/pin/?username=aalaebl&theme=github_dark&repo=covid-19-tracker"/>
+  <img align="center" src= "https://github-readme-stats.vercel.app/api/pin/?username=aalaebl&theme=github_dark&repo=2048_JS"/>
+  <img align="center" src= "https://github-readme-stats.vercel.app/api/pin/?username=aalaebl&theme=github_dark&repo=Snake_PyGame"/>
 </p>
 
 <h3>Languages & Frameworks:</h3>
