@@ -28,7 +28,7 @@
 <p>
   As a technology lover, I particularly appreciate how little and elegant it turns into each year. I was constantly intrigued by AI and always interested in making smart machines from code and Mechatronics. That drove me to follow my passion thus studying engineering and learning coding. I still remember the first robot I made using Arduino and the basic application I wrote for it. It was perhaps one of the best moments in my life when I was looking at it responding to my instructions. I really enjoyed messing with wires and code until I have got it done. Furthermore, due to being an artist, I generally need to ensure that my tasks are well designed and visually appealing with a sense of creativity.
 
-At present, I am an Electromechanical Designing understudy, Front-end Web Engineer, and UX/UI Designer. I likewise work as a freelance digital artist.
+At present, I am an Electromechanical Designing understudy, Front-end Web developer, and UX/UI Designer. I likewise work as a freelance digital artist.
 </p>
 
 
