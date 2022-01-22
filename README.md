@@ -7,8 +7,8 @@
 
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=aalaebl&show_icons=true&theme=github_dark"/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aalaebl&layout=compact&theme=github_dark"/>
+  <img align="center" height="170px" src="https://github-readme-stats.vercel.app/api?username=aalaebl&show_icons=true&theme=github_dark"/>
+  <img align="center" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aalaebl&layout=compact&theme=github_dark"/>
 </p>
 
 <h3>Pinned:</h3>
