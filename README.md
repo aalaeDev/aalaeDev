@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aalae <img src="https://komarev.com/ghpvc/?username=aalaebl&label=Profile%20views&color=0e75b6&style=flat" alt="aalaebl" /></h1>
 
-<h3 align="center">I am an Electromechanical engineering student, Full-Stack web developer, and artist.</h3>
+<h3 align="center">I am an Electromechanical Engineering Student, Full-Stack Web Developer, and Artist.</h3>
 
 
 
