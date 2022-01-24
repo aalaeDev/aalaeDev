@@ -14,10 +14,18 @@
 <h3>Pinned:</h3>
 
 <p align="center">
-  <img align="center" src= "https://github-readme-stats.vercel.app/api/pin/?username=aalaebl&theme=github_dark&repo=Flow-Shop-Scheduling"/>
-  <img align="center" src= "https://github-readme-stats.vercel.app/api/pin/?username=aalaebl&theme=github_dark&repo=covid-19-tracker"/>
-  <img align="center" src= "https://github-readme-stats.vercel.app/api/pin/?username=aalaebl&theme=github_dark&repo=2048_JS"/>
-  <img align="center" src= "https://github-readme-stats.vercel.app/api/pin/?username=aalaebl&theme=github_dark&repo=Snake_PyGame"/>
+  <a href="https://github.com/aalaebl/Flow-Shop-Scheduling" target="_blank" rel="noreferrer">
+    <img align="center" src= "https://github-readme-stats.vercel.app/api/pin/?username=aalaebl&theme=github_dark&repo=Flow-Shop-Scheduling"/>
+  </a>
+  <a href="https://github.com/aalaebl/covid-19-tracker" target="_blank" rel="noreferrer">
+    <img align="center" src= "https://github-readme-stats.vercel.app/api/pin/?username=aalaebl&theme=github_dark&repo=covid-19-tracker"/>
+  </a>
+  <a href="https://github.com/aalaebl/2048_JS" target="_blank" rel="noreferrer">
+    <img align="center" src= "https://github-readme-stats.vercel.app/api/pin/?username=aalaebl&theme=github_dark&repo=2048_JS"/>
+  </a>
+  <a href="https://github.com/aalaebl/Snake_PyGame" target="_blank" rel="noreferrer">
+    <img align="center" src= "https://github-readme-stats.vercel.app/api/pin/?username=aalaebl&theme=github_dark&repo=Snake_PyGame"/>
+  </a>
 </p>
 
 <h3>Languages & Frameworks:</h3>
