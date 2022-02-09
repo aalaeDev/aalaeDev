@@ -3,9 +3,6 @@
 <h3 align="center">I am an Electromechanical Engineering Student, Full-Stack Web Developer, and Artist.</h3>
 
 
-
-
-
 <p align="center">
   <img align="center" height="170px" src="https://github-readme-stats.vercel.app/api?username=aalaebl&show_icons=true&theme=github_dark"/>
   <img align="center" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aalaebl&layout=compact&theme=github_dark"/>
@@ -38,9 +35,6 @@
 
 At present, I am an Electromechanical Engineering Student, Front-end Web Developer, and UX/UI Designer. I likewise work as a freelance digital artist.
 </p>
-
-
-
 
 
 
