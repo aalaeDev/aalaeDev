@@ -45,7 +45,6 @@ At present, I am an Electromechanical Engineering Student, Front-end Web Develop
 
 
 
-
 <h3 align="left">Connect with me:<a href="https://twitter.com/aalae_bl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aalae_bl" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/aala-eddine-bousskoul-1187b4225/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aala-eddine-bousskoul-1187b4225/" height="30" width="40" /></a>
 <a href="https://www.behance.net/aalaebl7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="aalaebl7" height="30" width="40" /></a> </h3>
