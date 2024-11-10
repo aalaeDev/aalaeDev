@@ -34,9 +34,8 @@ jobs:
                   #                 The first one is 0 contribution, then it goes from the low contribution to the highest.
                   #                 Exactly 5 colors are expected.
                   outputs: |
-                      dist/github-snake.svg?color_snake=orange
-                      dist/github-snake-dark.svg?color_snake=orange
-                      dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+                      dist/github-snake.svg?color_snake=#E83B7A&color_dots=#ebedf0,#9BCFE9,#4098C4,#307BA1,#21546E
+                      dist/github-snake-dark.svg?color_snake=#E83B7A&color_dots=#161b22,#010D31,#031945,#0F3B6D,#005CC6
               env:
                   GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
             # Step 3: Deploy the generated files to the 'output' branch
