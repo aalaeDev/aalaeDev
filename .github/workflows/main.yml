@@ -35,7 +35,7 @@ jobs:
                   #                 Exactly 5 colors are expected.
                   outputs: |
                       dist/github-snake.svg?color_snake=#E83B7A&color_dots=#ebedf0,#9BCFE9,#4098C4,#307BA1,#21546E
-                      dist/github-snake-dark.svg?color_snake=#E83B7A&color_dots=#161b22,#010D31,#031945,#0F3B6D,#005CC6
+                      dist/github-snake-dark.svg?color_snake=#E86193&color_dots=#161b22,#010D31,#031945,#0F3B6D,#005CC6
               env:
                   GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
             # Step 3: Deploy the generated files to the 'output' branch
