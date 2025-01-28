@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Aalae <img src="https://komarev.com/ghpvc/?username=aalaeDev&label=Profile%20views&color=0e75b6&style=flat" alt="aalaeDev" /></h1>
+<h1 align="center">Hi 👋, I'm Aalae</h1>
 
 <h3 align="center">I am a Full-Stack Web Developer.</h3>
 
